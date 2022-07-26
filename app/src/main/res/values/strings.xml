@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upload_again">Upload Again</string>
+    <string name="percent_100">100%</string>
+    <string name="demo_module">Demo Module</string>
+    <string name="upload_photo_screen">Upload Photo Screen</string>
+</resources>
